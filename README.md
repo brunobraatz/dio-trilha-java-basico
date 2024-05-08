@@ -1,1 +1,1 @@
-# dio-trilha-java-basico
+# Projeto Conta Terminal - Java Básico
